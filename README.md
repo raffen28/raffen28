@@ -60,10 +60,10 @@ Currently, I am expanding my knowledge in **AI & Data Science** to integrate int
 
 ## 📬 Let's Connect
 <p align="center">
-    <a href="mailto:sakayarajraffen@gmail.com">
+    <a href="mailto:sakayarajraffen351@gmail.com">
         <img src="https://img.shields.io/badge/Email%20Me-F24E1E?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/your-link-here">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/sabasthe-raffen-s-2911a02ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
